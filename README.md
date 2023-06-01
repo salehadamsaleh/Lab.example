@@ -1,3 +1,3 @@
 # Lab.example
 php with  database
-https://salehadamsaleh.github.io/Lab.example/
+https://salehadamsaleh.github.io/Lab.example/Proje/index.php
